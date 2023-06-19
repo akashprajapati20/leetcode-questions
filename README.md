@@ -5,7 +5,7 @@
 31. Next Permutation 
 
 GFG
- Kth smallest element [GFG] <button href={https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1}>link</button>
+ Kth smallest element [GFG] <a href="https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1">link</a>
 
   
 <hr>
