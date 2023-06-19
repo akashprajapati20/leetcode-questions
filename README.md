@@ -3,6 +3,11 @@
 <strong>ARRAY</strong><br>
 
 31. Next Permutation 
+
+GFG
+ Kth smallest element [GFG] <button href={https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1}>link</button>
+
+  
 <hr>
 <strong>STRING</strong><br>
 
@@ -18,6 +23,7 @@
 509. Fibonacci number
 78. subsets
 17. Keypad problem(Letter Combinations of a Phone Number)
+46. Permutations
 
 
 <hr>
