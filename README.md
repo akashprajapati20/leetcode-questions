@@ -7,7 +7,11 @@
  <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a>
 
 GFG
+<<<<<<< HEAD
 <a href="https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1">Kth smallest element [GFG]</a>
+=======
+ Kth smallest element [GFG] <a href="https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1">link</a>
+>>>>>>> a092a7645f422959e1e3d8283aa5f1c9f60cd96b
 
   
 <hr>
