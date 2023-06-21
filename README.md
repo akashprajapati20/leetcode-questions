@@ -3,9 +3,11 @@
 <strong>ARRAY</strong><br>
 
 31. Next Permutation 
+ <a href="https://leetcode.com/problems/maximum-subarray/">53.Maximum Subarray (kadanes algo)</a>
+ <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a>
 
 GFG
- Kth smallest element [GFG] <button href={https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1}>link</button>
+<a href="https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1">Kth smallest element [GFG]</a>
 
   
 <hr>
