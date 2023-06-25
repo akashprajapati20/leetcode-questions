@@ -7,10 +7,12 @@
 <a href="https://leetcode.com/problems/kth-largest-element-in-an-array/">215. Kth Largest Element in an Array</a><br>
 <a href="https://leetcode.com/problems/jump-game-ii/">45. Jump Game II</a><br>
 <a href="https://leetcode.com/problems/find-the-duplicate-number/">287. Find the Duplicate Number</a><br>
+<a href="https://leetcode.com/problems/merge-intervals/">56. Merge Intervals</a><br>
 
 GFG
 <a href="https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1">Kth smallest element [GFG]</a>
-<a href="https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1">Merge Without Extra Space TC-O(n*m)</a><br>
+<a href="https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1">Merge Without Extra Space  </a><br>
+
 <hr>
 <strong>STRING</strong><br>
 
